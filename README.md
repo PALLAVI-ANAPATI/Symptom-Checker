@@ -1,4 +1,4 @@
-# Symptom Checker-Based Medicine and Diet Recommendation System
+#Symptom Checker - Suggested Medicine and Diet Recommendation
 ![imgalt](https://github.com/PALLAVI-ANAPATI/Symptom-Checker/blob/main/image/1.png)
 ![imgalt](https://github.com/PALLAVI-ANAPATI/Symptom-Checker/blob/main/image/2.png)
 ---
@@ -23,7 +23,7 @@ A key feature of this system is its ability to handle variations in symptom inpu
 
 
 ## Technology Required
-- **Programming Language:** Python 3.13
+- **Programming Language:** Python 3.10 and above
 - **Framework:** Flask
 - **Machine Learning Libraries:** scikit-learn, pandas
 - **Text Processing:** TfidfVectorizer (from scikit-learn)
@@ -32,7 +32,7 @@ A key feature of this system is its ability to handle variations in symptom inpu
 
 ## Usage
 - Download this repository via GIT or zip.
-- Open CMD in directory of this repository(above Python 3.10 should be installed)
+- Open CMD in directory of this repository(Python 3.10 and above should be installed)
 - type pip install -r requirements.txt.
 - After installation run app.py.
 - Go to the 127.0.0.1:5000/chatbot, You can start chatting.
