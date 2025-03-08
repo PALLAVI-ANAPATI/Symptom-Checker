@@ -1,4 +1,4 @@
-#Symptom Checker - Suggested Medicine and Diet Recommendation
+## Symptom Checker - Suggested Medicine and Diet Recommendation
 ![imgalt](https://github.com/PALLAVI-ANAPATI/Symptom-Checker/blob/main/image/1.png)
 ![imgalt](https://github.com/PALLAVI-ANAPATI/Symptom-Checker/blob/main/image/2.png)
 ---
